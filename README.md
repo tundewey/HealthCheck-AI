@@ -21,7 +21,7 @@ Sign in with Clerk, open the assistant at `/product`, enter patient name, visit 
 
 | | |
 |--|--|
-| **Source repository** | [GIT_REPO](https://github.com/YOUR_USERNAME/YOUR_REPO) |
+| **Source repository** | [GIT_REPO](https://github.com/tundewey/HealthCheck-AI) |
 | **AWS deployment** | [AWS Production Link](https://mr68ziwnhy.us-east-1.awsapprunner.com) |
 
 ## Local development
